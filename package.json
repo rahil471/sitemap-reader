@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sitemapper": "^2.2.0"
+    "sitemapper": "^3.2.6"
   }
 }
